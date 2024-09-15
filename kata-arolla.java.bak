@@ -27,9 +27,7 @@ public class FooBarQix {
         }
 
     }
-<<<<<<< HEAD
+
 	result.toString();
-=======
->>>>>>> e4f638b (Step 1 : Process each digit and add Foo/Bar/Qix for 3/5/7)
 
 }
